@@ -8,14 +8,11 @@ _Last updated: 13 June 2025_
 
 | | |
 | --- | --- |
-| **Responsible entity (Controller)** | **\<Your full legal name or company name\>** |
-| **Address** | \<Street, No. – ZIP – City – Country\> |
-| **E-mail** | \<contact@example.com\> |
-| **Phone** | \<optional\> |
-| **VAT-ID / Trade Register** | \<optional, if required in your country\> |
+| **Responsible entity (Controller)** | **\<Simon Rambow\>** |
+| **Address** | \<Josef-Kohtes-Straße 34 / 40670 Meerbusch/Germany\> |
+| **E-mail** | \<ClipTrigger.ow@gmail.com\> |
+| **VAT-ID / Trade Register** | \<not available atm\> |
 
-> **Note for the repository owner:**  
-> Replace the angle-bracket placeholders with your real details. Under German law (§5 TMG) and many other jurisdictions an imprint is mandatory.
 
 ---
 
@@ -99,7 +96,7 @@ A complete list of third-party licences can be found in the repository under `/l
 
 ## 6. Contact
 
-Questions? Please write to **\<contact@example.com\>**.
+Questions? Please write to **\<ClipTrigger.ow@gmail.com\>**.
 
 ---
 
